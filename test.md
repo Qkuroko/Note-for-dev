@@ -1,8 +1,3 @@
----
-typora-root-url: ./
----
+测试 哈哈 好
 
-测试哦!
-
-![image-20230204203930793](/test.assets/image-20230204203930793.png)
-
+![image-20230204205509673](test.assets/image-20230204205509673.png)
